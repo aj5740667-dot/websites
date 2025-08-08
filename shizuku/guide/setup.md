@@ -1,4 +1,4 @@
-# User manual
+realmi p3 5g
 
 [[toc]]
 
